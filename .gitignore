@@ -1,0 +1,5 @@
+/queryme
+/bin/
+/dist/
+*.test
+*.out
